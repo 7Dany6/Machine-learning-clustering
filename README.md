@@ -1,2 +1,2 @@
 # Machine-learning
-These are approaches to convey analysis about different spheres of our live
+Repository consists of examples of the clustering techniques, applied to the real data, taken from World organizations.
